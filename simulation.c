@@ -10,7 +10,7 @@ int main()
   time_t t;
   char A[s][s];
   srand((unsigned)time(&t));
-  for (int o = 1; o <= 2; o++)
+  for (int o = 1; o <= 20; o++)
   {
     if (o == 1)
     {
